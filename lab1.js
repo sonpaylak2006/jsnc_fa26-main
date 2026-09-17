@@ -1,5 +1,3 @@
-// Bài 1
-
 let name = "Nguyễn Văn An";
 let age = 20;
 let address = "Hà Nội";
